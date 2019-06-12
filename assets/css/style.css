@@ -7,7 +7,7 @@ body{
 }
 h1{
     color:#222;
-    text-transform:uppercase;
+    text-transform:none;
     font-family:"Poppins",sans-serif;
     font-size:50px;
     font-weight:700
@@ -20,7 +20,7 @@ h2{
 }
 h3{
     color:#222;
-    text-transform:capitalize;
+    text-transform:none;
     font-family:"Poppins",sans-serif;
     font-size:20px;
     font-weight:600
@@ -28,21 +28,21 @@ h3{
 h4{
     color:#222;
     font-family:"Poppins",sans-serif;
-    text-transform:capitalize;
+    text-transform:none;
     font-size:18px;
     font-weight:600
 }
 h5{
     color:#777;
     font-family:"Open Sans",sans-serif;
-    text-transform:capitalize;
+    text-transform:none;
     font-size:16px;
     font-weight:400
 }
 h6{
     color:#777;
     font-family:"Open Sans",sans-serif;
-    text-transform:uppercase;
+    text-transform:none;
     font-size:14px;
     font-weight:600
 }
@@ -272,7 +272,7 @@ input:focus,textarea:focus{
     position:absolute;
     top:-42px;
     right:15px;
-    background:#c7000a;
+    background:#0061ff;
     padding:7px 10px;
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
@@ -2861,7 +2861,7 @@ h6{
 }
 .template-btn{
     color:#fff !important;
-    background:#c7000a;
+    background:#0061ff;
     font-family:"Open Sans",sans-serif;
     text-transform:uppercase;
     font-size:14px;
@@ -2884,7 +2884,7 @@ h6{
 .secondary-btn{
     color:#222;
     font-family:"Open Sans",sans-serif;
-    text-transform:uppercase;
+    text-transform:none;
     font-size:14px;
     font-weight:600;
     display:inline-block;
