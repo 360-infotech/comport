@@ -530,6 +530,12 @@ input:focus,textarea:focus{
     -moz-box-shadow:0px 10px 30px rgba(0,0,0,0.1);
     box-shadow:0px 10px 30px rgba(0,0,0,0.1)
 }
+.single-feature h3{
+    min-height:50px;
+}
+.single-feature p{
+    min-height:120px;
+}
 .single-category{
     padding:30px 16px;
     background:#f9f9f9;
@@ -975,7 +981,7 @@ input:focus,textarea:focus{
     color:#fff;
     background:#04091e
 }
-.footer-area h3{
+.footer-area h3, .footer-area h4, .footer-area h5 {
     color:#fff
 }
 .footer-area a{
@@ -1020,7 +1026,8 @@ input:focus,textarea:focus{
     margin-bottom:10px
 }
 .footer-copyright{
-    margin-top:25px
+    margin-top:20px;
+    font-size:x-small;
 }
 .footer-copyright .color{
     color:#ff9902
