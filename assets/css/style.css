@@ -309,7 +309,7 @@ input:focus,textarea:focus{
     height:2px
 }
 .header-area.main-header{
-    padding:30px 0
+    padding:15px 0
 }
 .header-top{
     position:relative;
@@ -369,7 +369,7 @@ input:focus,textarea:focus{
     }
 }
 .banner-area .banner-text{
-    padding:0 47% 0 5%
+    padding:0 40% 0 10%
 }
 @media (min-width: 992px) and (max-width: 1199.98px){
     .banner-area .banner-text{
@@ -3027,13 +3027,13 @@ form .template-btn{
     padding:40px 0
 }
 .section-padding2{
-    padding-top:140px
+    padding-top:35px
 }
 .section-padding3{
-    padding-bottom:140px
+    padding-bottom:30px
 }
 .section-top{
-    margin-bottom:80px
+    margin-bottom:40px
 }
 .section-top p{
     font-style:italic
