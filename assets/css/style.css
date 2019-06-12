@@ -392,7 +392,7 @@ input:focus,textarea:focus{
     }
 }
 .banner-area .banner-text h1 span{
-    color:#ff9902
+    color:#0061ff;
 }
 .search-bg{
     margin-top:-50px;
@@ -415,7 +415,7 @@ input:focus,textarea:focus{
     }
 }
 .search-bg form{
-    background:#ff9902;
+    background:#0061ff;
     padding:40px
 }
 .search-bg form input{
