@@ -667,6 +667,12 @@ input:focus,textarea:focus{
     height:10px;
     margin-right:10px
 }
+.brief-box{
+    width: 1140px;
+    height: 720px;
+    max-width: 100%;
+    position: relative;
+}
 .dtb-box{
     width: 1140px;
     height: 190px;
@@ -697,15 +703,24 @@ input:focus,textarea:focus{
     .single-job .job-img{
         margin:30px 0
     }
+    .brief-box{
+        height: 440px;
+    }
 }
 @media (min-width: 576px) and (max-width: 767.98px){
     .single-job .job-img{
         margin:30px 0
     }
+    .brief-box{
+        height: 330px;
+    }
 }
 @media (max-width: 575.98px){
     .single-job .job-img{
         margin:30px 0
+    }
+    .brief-box{
+        height: 300px;
     }
 }
 .single-job .job-btn{
